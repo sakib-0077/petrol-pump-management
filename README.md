@@ -1,5 +1,3 @@
-# petrol-pump-management
-petrol pump management system
 <!DOCTYPE html>
 <html lang="en">
 <head>
